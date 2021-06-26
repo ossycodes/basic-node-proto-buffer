@@ -1,6 +1,6 @@
 # A basic gRPC Proto Buffer
 
-please ensure you have a copy of the [Protobuffer](https://github.com/ossycodes/basic-node-proto-buffer) [producer](https://github.com/ossycodes/basic-node-grpc-producer)  and [consumer](https://github.com/ossycodes/basic-node-grpc-consumer)
+please ensure you have a copy of the [Protobuffer](https://github.com/ossycodes/basic-node-proto-buffer) [producer](https://github.com/ossycodes/basic-node-grpc-producer)  and [consumer](https://github.com/ossycodes/basic-node-grpc-consumer) and ensure you cloned this into a folder named `shared-proto`
 
 
 ## usage
